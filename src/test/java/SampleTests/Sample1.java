@@ -6,6 +6,8 @@ public class Sample1 {
 	@Test
 	public void print() {
 		System.out.println("Sample1");
+		Long id = Thread.currentThread().getId();
+        System.out.println("Test method executing on thread with id: " + id);
 	}
 
 }

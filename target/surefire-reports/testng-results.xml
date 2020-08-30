@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="31" started-at="2020-08-30T14:57:47Z" finished-at="2020-08-30T14:57:47Z">
+  <suite name="Suite" duration-ms="38" started-at="2020-08-30T15:01:04Z" finished-at="2020-08-30T15:01:05Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="31" started-at="2020-08-30T14:57:47Z" finished-at="2020-08-30T14:57:47Z">
+    <test name="Test" duration-ms="38" started-at="2020-08-30T15:01:04Z" finished-at="2020-08-30T15:01:05Z">
       <class name="SampleTests.Sample3">
-        <test-method status="PASS" signature="print()[pri:0, instance:SampleTests.Sample3@1e4a7dd4]" name="print" duration-ms="12" started-at="2020-08-30T20:27:47Z" finished-at="2020-08-30T20:27:47Z">
+        <test-method status="PASS" signature="print()[pri:0, instance:SampleTests.Sample3@1e4a7dd4]" name="print" duration-ms="14" started-at="2020-08-30T20:31:04Z" finished-at="2020-08-30T20:31:04Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- print -->
       </class> <!-- SampleTests.Sample3 -->
       <class name="SampleTests.Sample1">
-        <test-method status="PASS" signature="print()[pri:0, instance:SampleTests.Sample1@b9afc07]" name="print" duration-ms="0" started-at="2020-08-30T20:27:47Z" finished-at="2020-08-30T20:27:47Z">
+        <test-method status="PASS" signature="print()[pri:0, instance:SampleTests.Sample1@b9afc07]" name="print" duration-ms="1" started-at="2020-08-30T20:31:05Z" finished-at="2020-08-30T20:31:05Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- print -->
       </class> <!-- SampleTests.Sample1 -->
       <class name="SampleTests.Sample2">
-        <test-method status="PASS" signature="print()[pri:0, instance:SampleTests.Sample2@4f51b3e0]" name="print" duration-ms="0" started-at="2020-08-30T20:27:47Z" finished-at="2020-08-30T20:27:47Z">
+        <test-method status="PASS" signature="print()[pri:0, instance:SampleTests.Sample2@4f51b3e0]" name="print" duration-ms="1" started-at="2020-08-30T20:31:05Z" finished-at="2020-08-30T20:31:05Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- print -->
